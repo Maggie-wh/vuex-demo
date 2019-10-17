@@ -13,7 +13,6 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String,
-    wh: String,
   },
   computed: {
     count2(){

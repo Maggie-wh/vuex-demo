@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome WH!" wh="哈哈哈哈"/>
+    <HelloWorld msg="Welcome WH! 哈哈"/>
     <p>count: {{count}}</p>
     <button @click="countADD">点击</button>
   </div>
